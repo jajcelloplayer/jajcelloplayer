@@ -1,1 +1,1 @@
-Current master’s student focused on finding new methods in Bayesian Machine Learning, Spatial Statistics, Gaussian Processes, and Uncertainty Quantifications, specifically with applications in climate and environmental science. 
+PhD student focused on finding new methods in Bayesian Machine Learning, Spatial Statistics, Gaussian Processes, and Uncertainty Quantifications, specifically with applications in climate and environmental science. 
